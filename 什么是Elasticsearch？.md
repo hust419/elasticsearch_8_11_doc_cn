@@ -1,5 +1,3 @@
- - 微信公众号: toutiaohao_tools
-
 你知道的，用于搜索（和分析）
 
 Elasticsearch是Elastic Stack核心的分布式搜索和分析引擎。Logstash和Beats有助于收集、聚合和丰富您的数据，并将其存储在Elasticsearch中。Kibana使您能够交互式地探索、可视化和分享有关您的数据的见解，并管理和监控整个堆栈。Elasticsearch是索引、搜索和分析魔法发生的地方。
